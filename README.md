@@ -1,4 +1,4 @@
-**Heat Exchanger Network (HEN) Analysis**
+**Heat Exchanger Network (HEN) Analysis and Energy Integration**
 
 **Project Overview**:
 Simulated heat integration in a refinery system to minimize utility consumption using MATLAB.
